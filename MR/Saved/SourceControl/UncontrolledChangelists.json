@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/mattgleeson/Documents/Unreal Projects/MRprojectGIT/MR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/0M/P36WO4LFUGJO1ZLYQOM9QQ.uasset",
+				"/Users/mattgleeson/Documents/Unreal Projects/MRprojectGIT/MR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/12/HYRDJVGJVI8HV4YG2YRGW9.uasset",
+				"/Users/mattgleeson/Documents/Unreal Projects/MRprojectGIT/MR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/VS/D802GVI4VNT6Y19PIGDX9T.uasset"
+			]
+		}
+	]
+}
